@@ -5,6 +5,8 @@
 //  Created by Geordie Jay on 11.05.17.
 //  Copyright © 2017 Geordie Jay. All rights reserved.
 //
+import CoreGraphics
+import CoreAnimation
 
 open class UIView: UIResponder, CALayerDelegate, UIAccessibilityIdentification {
     
